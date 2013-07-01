@@ -1,5 +1,7 @@
 # GrandTotal Puppet Module for Boxen
 
+[![Build Status](https://travis-ci.org/boxen/puppet-grandtotal.png?branch=master)](https://travis-ci.org/boxen/puppet-grandtotal)
+
 Install [GrandTotal](http://www.grandtotal.biz/GrandTotal/), Create invoices and estimates in your design for Mac OS X.
 
 ## Usage
